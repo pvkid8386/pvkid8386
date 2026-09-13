@@ -15,4 +15,4 @@
 
 Most of my professional code is private (company-owned).
 
-📫 phuongyon9@gmail.com · [LinkedIn]((https://www.linkedin.com/in/phuongvu218/))
+📫 phuongyon9@gmail.com · [LinkedIn](https://www.linkedin.com/in/phuongvu218/)
