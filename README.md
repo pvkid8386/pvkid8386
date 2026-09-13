@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Phuong Vu 👋
+**Mobile Developer (Android & iOS)** based in Hanoi, Vietnam.
 
-<!--
-**pvkid8386/pvkid8386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 Native Android (Kotlin, Jetpack Compose) and iOS (Swift, SwiftUI)
+- 🚀 Contributed to 51 live apps with 1.8M+ Google Play installs; led a 7-person product team
+- 🧠 On-device detection (OpenCV), Gemini AI integration, ads & subscription SDKs
+- 🤖 AI-assisted development with Claude Code
 
-Here are some ideas to get you started:
+### Selected apps
+| App | Platform | Role |
+|---|---|---|
+| [Spy Camera Detector: Privacy](https://play.google.com/store/apps/details?id=com.cameradetectorapp.hiddencameradetector) | Android | Solo developer · 140K+ installs |
+| [Song Finder: Music Finder MuZi](https://play.google.com/store/apps/details?id=com.findsong.identifymusic) | Android | Led revamp · 290K+ installs |
+| [Picture It: Plant Identifier](https://apps.apple.com/us/app/picture-it-plant-identifier/id6800722185) | iOS | Solo developer |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my professional code is private (company-owned).
+
+📫 phuongyon9@gmail.com · [LinkedIn]([LINKEDIN_URL](https://www.linkedin.com/in/phuongvu218/))
