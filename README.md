@@ -2,7 +2,7 @@
 **Mobile Developer (Android & iOS)** based in Hanoi, Vietnam.
 
 - 📱 Native Android (Kotlin, Jetpack Compose) and iOS (Swift, SwiftUI)
-- 🚀 Contributed to 51 live apps with 1.8M+ Google Play installs; led a 7-person product team
+- 🚀 Managed 51 live apps with 1.8M+ Google Play installs; led a 7-person product team
 - 🧠 On-device detection (OpenCV), Gemini AI integration, ads & subscription SDKs
 - 🤖 AI-assisted development with Claude Code
 
