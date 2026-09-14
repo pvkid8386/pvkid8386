@@ -16,8 +16,6 @@
 | [iGLOVPN: Secure Fast Proxy](https://apps.apple.com/us/app/iglovpn-secure-fast-proxy/id6792355818) | Aug 2026 | Team lead: wireframes, design review, feature & tech research, demo, testing, handoff approval |
 | [CurrenScan: Collection Info](https://apps.apple.com/us/app/currenscan-collection-info/id6803427566) | Aug 2026 | Team lead: wireframes, design review, feature & tech research, demo, testing, handoff approval |
 
-Mile Tracker is listed on the App Store as “MétGhiLại: Nhật ký hành trình”.
-
 ### Selected Android apps
 | App | My role |
 |---|---|
